@@ -55,13 +55,13 @@ Lista av keywords som vi har i C#:
 - bool:         datatyp (sant eller falskt, true/false)
 - for:          kontrolflöde (loop)
 - while:        kontrolflöde (loop)
-- <datatyp>[]:  del av datatyp (används för att skapa en array av någon datatyp)
+- \<datatyp\>[]:  del av datatyp (används för att skapa en array av någon datatyp)
 - = :           används för att ge ett värde till en variablel
 - == :          används för att se ifall ett värde är lika med ett annat
-- <  :          används för att se ifall värdet på vänster sida är mindre än värdet på höger sida
-- >  :          används för att se ifall värdet på höger sida är mindre än värder på vänster sida
-- <= :          används för att se ifall värder på vänster sida är mindre än eller lika med värder på höger sida
-- >= :          används för att se ifall värder på höger sida är mindre än eller lika med värder på vänster sida
+- \<  :          används för att se ifall värdet på vänster sida är mindre än värdet på höger sida
+- \>  :          används för att se ifall värdet på höger sida är mindre än värder på vänster sida
+- \<= :          används för att se ifall värder på vänster sida är mindre än eller lika med värder på höger sida
+- \>= :          används för att se ifall värder på höger sida är mindre än eller lika med värder på vänster sida
 - if:           kontrolflöde (bestämmer ifall kod ska köra eller ej)
 - else:         kontrolflöde (måste ligga efter en if sats, körs ifall if satsen inte kördes)
 - else if:      kontrolflöde (måste ligga efter en if sats eller en annan else if sats, ifall if satsen åvanför inte kördes, så körs kanske denna ifall den är true)
